@@ -1,10 +1,10 @@
 const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScript";
+h2.textContent = "About Me";
 
 document.querySelector("body").appendChild(h2);
 
-const newHeader = document.createElement("h3");
-newHeader.id = "header";
-newHeader.innerHTML = "Testing";
-document.body.append(newHeader);
+const newHeader = document.createElement("p");
+newParagraph.id = "paragraph";
+newParagraph.innerHTML = "Testing";
+document.body.append(newParagraph);
 
