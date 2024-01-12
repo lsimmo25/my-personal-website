@@ -8,7 +8,7 @@ h1 {
 }
 
 h2 {
-    padding-top: 100px;
+    padding-top: 75px;
     text-decoration: underline;
 }
 
@@ -23,6 +23,7 @@ header {
 .container a {
     padding-left: 10px;
     padding-right: 10px;
+    background: lightgray;
 }
 
 #calCalc {
