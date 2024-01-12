@@ -1,3 +1,29 @@
 body {
-    background: blue;
+    background: #DFCFBE;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.container a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#calCalc {
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+#calCalc h2 {
+    text-decoration: underline;
 }
