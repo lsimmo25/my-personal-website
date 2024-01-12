@@ -33,7 +33,11 @@ header {
     text-decoration: underline;
 }
 
-#aboutMe {
+#aboutMe p {
     padding-top: 5px;
-    width: 400px;
+    width: 500px;
+}
+
+#aboutMe img {
+    height: 400;
 }

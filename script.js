@@ -3,4 +3,3 @@ h2.textContent = "About Me";
 
 document.querySelector("body").appendChild(h2);
 
-
